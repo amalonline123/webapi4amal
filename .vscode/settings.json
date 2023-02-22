@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/097dffd3-12af-41e1-85cf-194a8291f41a/AppServices/subscriptions/097dffd3-12af-41e1-85cf-194a8291f41a/resourceGroups/WarnerRG/providers/Microsoft.Web/sites/api4amal"
+}
